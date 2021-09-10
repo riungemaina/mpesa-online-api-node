@@ -19,7 +19,7 @@ the Lipa na Mpesa online Api in JavaScript
 
 ---
 
-see licence
+see [licence](./licence)
 
 ---
 
