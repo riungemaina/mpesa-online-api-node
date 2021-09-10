@@ -1,0 +1,25 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "mpesa backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mpesa",
+    "nodejs",
+    "mysql",
+    "restapi",
+    "express"
+  ],
+  "author": "riunge",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "unirest": "^0.6.0"
+  }
+}
